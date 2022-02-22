@@ -7,6 +7,8 @@ For this submission I will attempt to focus on the below key areas:
  2. Create an onboarding guide for new participants to Codeless Conduct, assuming very little web3 background
  3. For a DAO/community of your choice, map out and define the community values
 
+## Notes
+
 
     Michael McCarthy <michemcc@outlook.com>
-    https://github.com/michemcc/
+    https://www.linkedin.com/in/michemcc/
